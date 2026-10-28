@@ -139,6 +139,7 @@ UL {
 	margin: 5px 0px;
 	position: absolute;
 	right: 0px;
+	width: calc(100% - 257px);
 }
 #linkDocIFrame {
 	width: 100%;
